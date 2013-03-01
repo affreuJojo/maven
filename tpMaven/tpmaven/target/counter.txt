@@ -1,0 +1,5 @@
+Indication will be given in the following language "english"
+number of classes 1
+	 For the class named fr.istic.info.taa.tpmaven.App
+	 	 Number of filed 0
+	 	 Number of methods 1
