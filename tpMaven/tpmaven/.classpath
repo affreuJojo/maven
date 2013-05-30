@@ -22,5 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="H:/Windows/Bureau/slf4j-api-1.6.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

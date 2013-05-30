@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="W:\TAA\TpMaven\tpmaven"/>
+    <property name="user.dir" value="H:\Windows\git\maven\tpMaven\tpmaven"/>
     <property name="java.runtime.version" value="1.7.0_04-b22"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre7\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="W:\TAA\TpMaven\.metadata\.plugins\org.eclipse.m2e.core\launches\m2conf5925854210646508756.tmp"/>
+    <property name="classworlds.conf" value="W:\ws\.metadata\.plugins\org.eclipse.m2e.core\launches\m2conf5150314336282089696.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;C:\altera\90\quartus\bin\cygwin\bin;C:\PVSW\Bin;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\CollabNet Subversion Client;C:\Python26\Lib\site-packages\PyQt4;C:\Program Files\Business Objects\common\3.5\bin\NOTES\;C:\Program Files\Business Objects\common\3.5\bin\NOTES\DATA\;C:\Perl\site\bin;C:\Perl\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\CamlLight\bin;C:\Program Files\doxygen\bin;C:\Program Files\Java\jdk1.6.0_22\bin;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Subversion\bin;C:\Program Files\Objective Caml\bin;C:\cygwin\bin;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\emacs-23.2\bin;C:\Program Files\emacs-23.2\site-lisp\jde-2.3.3;c:\Program Files\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\MATLAB\R2011a\bin;C:\altera\11.0\quartus\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\Graphviz 2.28\bin;C:\altera\90\modelsim_ae\win32aloem;C:\Program Files\MiKTeX 2.9\miktex/bin\;c:\altera\11.0\modelsim_ae\win32aloem;C:\Program Files\CodeBlocks\MinGW\bin;E:\eclipseJunoWithMavenAndGit\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -43,7 +43,7 @@
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="32"/>
     <property name="java.home" value="C:\Program Files\Java\jre7"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="fr"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -52,7 +52,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jre7\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="W:\TAA\TpMaven\tpmaven\EMBEDDED"/>
+    <property name="maven.home" value="H:\Windows\git\maven\tpMaven\tpmaven\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -60,5 +60,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="0.003" classname="fr.istic.info.taa.tpmaven.AppTest" name="testApp"/>
+  <testcase time="0" classname="fr.istic.info.taa.tpmaven.AppTest" name="testApp"/>
 </testsuite>
